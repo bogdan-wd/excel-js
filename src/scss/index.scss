@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 @import "~normalize.css";
 
+@import "abstracts/variables";
 @import "base/base";
 @import "base/animations";
 
-@import "abstracts/variables";
 @import "abstracts/mixins";
 @import "components/button";
 
