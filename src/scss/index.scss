@@ -1,7 +1,13 @@
-$red: red;
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+@import "~normalize.css";
 
-body{
-    background-color: blue;
-    text-align: center;
-}
+@import "base/base";
+@import "base/animations";
 
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+@import "components/formula";
+@import "components/header";
+@import "components/table";
+@import "components/toolbar";
