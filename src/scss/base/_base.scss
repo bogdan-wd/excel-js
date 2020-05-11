@@ -4,16 +4,22 @@
     box-sizing: border-box;
 }
 
+html{
+    font-size: 10px;
+}
 
 body{
     font-family: 'Roboto', sans-serif;
-    font-size: 83.3%; // 1rem = 10px, font-size 12px = 83.3%
+    font-size: 1.2rem; 
 }
 
 .excel{
     position: relative;
     color: $color-default;
+    height: 100%;
+    max-width: 100%;
 }
+
 
 a{
     text-decoration: none;
