@@ -28,11 +28,5 @@
         }
     }
 
-    &--buttons{
-
-        &--btn{
-            @include button();
-        }
-    }
 }
 
