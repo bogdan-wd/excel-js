@@ -9,7 +9,9 @@
         "semi": "off",
         "arrow-parens": "off",
         "linebreak-style": "off",
-        "require-jsdoc": "off"
+        "require-jsdoc": "off",
+        "quotes": "off",
+        "object-curly-spacing": "off"
     },
     "extends": [
         "eslint:recommended",
