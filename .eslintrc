@@ -11,11 +11,14 @@
         "linebreak-style": "off",
         "require-jsdoc": "off",
         "quotes": "off",
-        "object-curly-spacing": "off"
+        "object-curly-spacing": "off",
+        "func-call-spacing": "off",
+        "no-trailing-spaces": "off",
+        "eol-last": "off",
+        "space-before-function-paren": "off"
     },
     "extends": [
         "eslint:recommended",
         "google",
-        
     ],
 }
