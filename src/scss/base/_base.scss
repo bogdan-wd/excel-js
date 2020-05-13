@@ -23,10 +23,13 @@ body{
 
 a{
     text-decoration: none;
+    cursor: pointer;
 }
 
 li{
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 img{
